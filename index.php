@@ -33,5 +33,6 @@
         <p>Sorry, no posts match your criteria.</p>
     <?php } ?>
 
+    <!--TEST -->
 
 <?php get_footer(); ?>
